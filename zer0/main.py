@@ -49,7 +49,7 @@ play_next_song = asyncio.Event()
 
 
 bot = commands.Bot(command_prefix='/', case_insensitive=True)
-bot.config_token = "NzM4MzU2NTA1ODI0NDYwODAx.XyKuFA.tDcutfq3JKumPhI6k6RmxJl5f1s"
+bot.config_token = "tokeninizi girin."
 logging.basicConfig(level=logging.INFO)
 
 
