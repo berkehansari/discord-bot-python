@@ -1,0 +1,6 @@
+discord
+googletrans
+Pillow
+pathlib
+requests
+bs4
