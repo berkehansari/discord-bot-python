@@ -1,5 +1,5 @@
 # discord-bot-python
-Discord Bot with Python.
+
 
 -------------------------
 
@@ -23,6 +23,7 @@ Merhaba, Python ile yazmış olduğum Discord Bot'um ile;
 
 gibi özelliklere sahiptir.
 Kodlar gayet anlaşılabilir şekilde yazıldı, umarım yardımcı olur.
+
 
 
 
