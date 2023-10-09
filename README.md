@@ -3,7 +3,7 @@
 
 -------------------------
 
-Hi, I made a Discord Bot Project with Python. This is a Turkish bot, so I hope this help you.
+Hi, I made a Discord Bot Project with Python. This is a Turkish bot, so I hope this helps you.
 
 Merhaba, Python ile yazmış olduğum Discord Bot'um ile;
 -küfür engelleme
