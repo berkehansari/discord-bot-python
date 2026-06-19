@@ -1,9 +1,9 @@
-# Poe Discord Bot
+# Poe (zer0) Discord Bot
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)
 ![Discord.py](https://img.shields.io/badge/discord.py-1.7.3-yellow?style=for-the-badge)
 
-Poe Bot is a multi-purpose Discord bot designed for server moderation, user engagement, and entertainment.
+Poe (zer0) Bot is a multi-purpose Discord bot designed for server moderation, user engagement, and entertainment.
 
 ---
 
